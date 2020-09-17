@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub
-have a good day!
+I love :banana:,:orange:,:apple:,:watermelon:,:strawberry:.
