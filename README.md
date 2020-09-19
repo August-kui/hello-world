@@ -1,4 +1,4 @@
 # hello-world
 My first repository on GitHub
-I love :banana:,:orange:,:apple:,:watermelon:,:strawberry:.
+I love :banana:,:orange:,:apple:,:watermelon:,:strawberry:,:bear:.
 HR
